@@ -24,4 +24,8 @@ public void m1()
 {
 	System.out.println("m1 method");
 }
+	public void m0()
+	{
+	System.out.println("m0 method")
+		}
 }
